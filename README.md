@@ -11,7 +11,7 @@ UniversityDB simulates a real university information system with:
 - Attendance tracking
 - Analytical queries (GPA, attendance %, risk detection, rankings)
 
-The database is fully script‑generated and can be recreated using the SQL file in the /database folder.
+The database is fully script‑generated and can be recreated using the UniversityDB.sql file in the main folder. It can also be recreated from scratch using the SQL setup scripts located in the SQL_Queries_01_DB_Setup folder.
 
 Note: Some future queries reference columns such as StartDate and EndDate in CourseOfferings.
 These columns are not yet implemented. The queries are stored for future use and will run once the schema is updated.
@@ -22,11 +22,11 @@ The core tables include:
 - Lecturers
 - Departments
 - Courses
-- CourseOfferings
-- Enrollments
+- CourseOffering
+- Enrolments
 - Attendance
 - GradeScale
-- Terms
+- Terms (This table has been added recently and is still being developed)
 
 ## Purpose of This Project
 This database is designed for:
