@@ -38,4 +38,4 @@ This database is designed for:
   
 ## Entity Relationship Diagram 
 This Entity Relationship Diagram (ERD) was designed in Lucidchart.
-![UniversityDB Entity Relationship Diagran](UniversityERD.jpg)
+![UniversityDB Entity Relationship Diagran](University_ERD.jpeg)
