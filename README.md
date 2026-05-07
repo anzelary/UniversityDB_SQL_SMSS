@@ -35,4 +35,7 @@ This database is designed for:
 - Academic coursework
 - Data analytics exercises
 
-
+  
+## Entity Relationship Diagram 
+This Entity Relationship Diagram (ERD) was designed in Lucidchart.
+![UniversityDB Entity Relationship Diagran](UniversityERD.jpg)
